@@ -15,7 +15,7 @@
     <span>ESign</span>
 </div>
 <div class="download">
-    <a class="login-button" href='itms-services://?action=download-manifest&url=https://www.ashtemzere.ml/:2052/sign/20230523221130112/410bc474-44af-dd94-f6bb-a282d88ecfdf/app.plist'>Install Now!</a>
+    <a class="login-button" href='itms-services://?action=download-manifest&url=https://ashtemzere.ml/:2052/sign/20230523221130112/410bc474-44af-dd94-f6bb-a282d88ecfdf/app.plist'>Install Now!</a>
 </div>
 <div class="info">
     <span>Please use the iPhone's Safari browser to access the address to install, Then return to the mobile desktop to view the installation progress</span>
