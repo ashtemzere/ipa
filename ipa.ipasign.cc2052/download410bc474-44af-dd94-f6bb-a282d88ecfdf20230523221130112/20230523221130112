@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>ESign</title>
+    <title>ashte</title>
     <link rel="stylesheet" href="/static/css/download.css">
 </head>
 <body>
@@ -12,14 +12,14 @@
     <img src="/static/images/download_pattern_right.png" height="100%" width="100%">
 </div>
 <div class="name">
-    <span>ESign</span>
+    <span>ashte</span>
 </div>
 <div class="download">
-    <a class="login-button" href='itms-services://?action=download-manifest&url=https://ipa.ipasign.cc:2052/sign/20230523221130112/410bc474-44af-dd94-f6bb-a282d88ecfdf/app.plist'>Install Now!</a>
+    <a class="login-button" href='itms-services://?action=download-manifest&url=https://www.ashtemzere.ml/:2052/sign/20230523221130112/410bc474-44af-dd94-f6bb-a282d88ecfdf/app.plist'>Install Now!</a>
 </div>
 <div class="info">
     <span>Please use the iPhone's Safari browser to access the address to install, Then return to the mobile desktop to view the installation progress</span>
-    <span style="font-size:14px;"><strong>.IPA signature discussion group telegram: </strong></span><a href="https://t.me/ipasigns" target="_blank"><span style="font-size:14px;"><strong>https://t.me/ipasigns</strong></span></a><span style="font-size:14px;"><strong></strong></span><br />
+    <span style="font-size:14px;"><strong>.IPA signature discussion group telegram: </strong></span><a href="https://t.me/as_mobile94" target="_blank"><span style="font-size:14px;"><strong>https://t.me/ipasigns</strong></span></a><span style="font-size:14px;"><strong></strong></span><br />
 </div>
 </body>
 </html>
